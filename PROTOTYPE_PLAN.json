@@ -1,0 +1,18 @@
+{
+  "core_flow": "Grup olu\u015ftur -> Harcama ekle (\u00d6deyen ve Tutar) -> Bor\u00e7 \u00f6zetini g\u00f6r\u00fcnt\u00fcle.",
+  "features": [
+    "H\u0131zl\u0131 harcama ekleme formu",
+    "Ki\u015fi bazl\u0131 bor\u00e7-alacak dengesi hesaplay\u0131c\u0131",
+    "Basit harcama ge\u00e7mi\u015fi listesi"
+  ],
+  "acceptance": [
+    "Sistem girilen toplam tutar\u0131 kat\u0131l\u0131mc\u0131 say\u0131s\u0131na b\u00f6lerek do\u011fru bor\u00e7 tutarlar\u0131n\u0131 hesaplamal\u0131d\u0131r.",
+    "LocalStorage \u00fczerinden sayfa yenilendi\u011finde veriler korunmal\u0131d\u0131r."
+  ],
+  "stack": "Node24, HTML5, CSS3, Vanilla JavaScript, LocalStorage",
+  "limitations": [
+    "Pazar talebi ger\u00e7ek kullan\u0131c\u0131larla hen\u00fcz do\u011frulanmad\u0131.",
+    "Veritaban\u0131 olmad\u0131\u011f\u0131 i\u00e7in veriler sadece taray\u0131c\u0131 bazl\u0131 saklan\u0131r.",
+    "Ger\u00e7ek zamanl\u0131 ortak d\u00fczenleme \u00f6zelli\u011fi mevcut de\u011fildir."
+  ]
+}

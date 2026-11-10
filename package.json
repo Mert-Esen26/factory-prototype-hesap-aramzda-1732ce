@@ -1,0 +1,13 @@
+{
+  "name": "hesap-aramizda-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hesap Aramızda - Türkçe temel prototip",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test",
+    "build": "node scripts/build-check.js"
+  },
+  "engines": { "node": ">=24" }
+}
